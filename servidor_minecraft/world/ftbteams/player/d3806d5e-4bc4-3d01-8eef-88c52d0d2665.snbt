@@ -1,0 +1,17 @@
+{
+	id: "d3806d5e-4bc4-3d01-8eef-88c52d0d2665"
+	type: "player"
+	player_name: "__Magnesio"
+	ranks: {
+		d3806d5e-4bc4-3d01-8eef-88c52d0d2665: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "__Magnesio"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

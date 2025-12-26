@@ -1,0 +1,17 @@
+{
+	id: "b724aec8-5c2e-3744-a21f-0cd0a03c6316"
+	type: "player"
+	player_name: "creu2"
+	ranks: {
+		b724aec8-5c2e-3744-a21f-0cd0a03c6316: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "creu2"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5986FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

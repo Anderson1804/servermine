@@ -1,0 +1,17 @@
+{
+	id: "525af570-4d77-3848-8cc5-534524370656"
+	type: "player"
+	player_name: "YETHAL_"
+	ranks: {
+		525af570-4d77-3848-8cc5-534524370656: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "YETHAL_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

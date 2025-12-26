@@ -1,0 +1,17 @@
+{
+	id: "6e5cb7f6-3544-3226-9984-2810ba6ace7e"
+	type: "player"
+	player_name: "LETHALOSKY"
+	ranks: {
+		6e5cb7f6-3544-3226-9984-2810ba6ace7e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LETHALOSKY"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

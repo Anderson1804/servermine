@@ -1,0 +1,17 @@
+{
+	id: "6e2c7dd8-a821-303d-8571-75e0aef3b882"
+	type: "player"
+	player_name: "manuelpro124"
+	ranks: {
+		6e2c7dd8-a821-303d-8571-75e0aef3b882: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "manuelpro124"
+		"ftbteams:description": ""
+		"ftbteams:color": "#79FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
